@@ -1,12 +1,12 @@
 
 Practice your IQ in this
 
-1. 5*4+1-90+189=
+1. 5*4+1-90+189=120
 
-2. A =        (ascii)
+2. A =  65      (ascii)
 
-3. MONY(ascii)=
+3. MONY(ascii)=223
 
-4. 101011 =        (decimal)
+4. 101011 = 43       (decimal)
 
-5. 17 =           (binary)
+5. 17 =   10001        (binary)
